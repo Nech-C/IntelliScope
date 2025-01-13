@@ -1,2 +1,9 @@
 __pycache__
 .DS_Store
+/cache/data/Json-file
+/cache/data/ori_dataset_download
+/cache/data/ori_dataset_download_backup
+/cache/data/ColonINST
+/cache/data/original_file_to_target_paths.csv
+/cache/data/reorganize_unique_pairs.csv
+helper_scripts/7zz
